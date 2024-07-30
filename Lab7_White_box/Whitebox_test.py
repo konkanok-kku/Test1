@@ -1,3 +1,8 @@
+#Konkanok Pruttipan
+#653380187-0 Sec.2
+#Lab7_White_box_test
+
+
 import unittest
 
 class CountClump:
